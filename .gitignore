@@ -4,6 +4,7 @@ node_modules
 package-lock.jsom
 package.json
 server.js
+/target
 
 # Local env files
 .env.local
